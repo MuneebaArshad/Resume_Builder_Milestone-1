@@ -45,7 +45,7 @@ educ_btn?.addEventListener('click', ()=>{
 })
 
 
-// -----------profile
+// -----------Contact
 let cont_section =document.getElementById('cont')
 let contact_btn=document.getElementById('contact_btn')
 
